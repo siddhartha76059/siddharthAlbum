@@ -1,6 +1,4 @@
 import React from "react";
-import "C:/My project/NodeProject/node-project/node_modules/bootstrap/dist/css/bootstrap.min.css";
-
 
 const Card = (props) => {
 
